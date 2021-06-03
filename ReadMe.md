@@ -3,7 +3,7 @@ Simple telegram bot made in [telethon](https://github.com/LonamiWebs/Telethon).
    
 Join [@yokohama_userbot](https://t.me/yokohama_userbot)!
     
-##string session 
+#string session 
 [ bot ] (htttps://t.me/SessionStringBot)
    
 
