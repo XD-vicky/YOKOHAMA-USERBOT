@@ -1,7 +1,7 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "name": "YOKOHAMA USERBOT",
+  "description": "The best and most awaited userbot made by @xditya and modified by me (@Yokohamaowner ) Made with ❤ For Support Join @yokohama_support ",
+  "logo": "https://telegra.ph/file/14e23750c09380af8e3b9.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/jattsahil/YOKOHAMA-USERBOT/",
+  "website": "https://github.com/jattsahil/YOKOHAMA-USERBOT/",
+  "success_url": "https://t.me/yokohama_support",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,7 +30,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @Yokohamaowner.",
       "value": "",
       "required": true
     },
@@ -46,7 +46,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/14e23750c09380af8e3b9.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
