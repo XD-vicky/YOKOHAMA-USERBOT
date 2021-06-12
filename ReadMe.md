@@ -5,7 +5,7 @@ Join [@yokohama_userbot](https://t.me/yokohama_userbot)!
     
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://telegra.ph/file/3256e5a357bb80b6aef60.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/3256e5a357bb80b6aef60.jpg" width="500" /></a></div>
+<a href="https://telegra.ph/file/3256e5a357bb80b6aef60.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="50" data-original-width="50" height="50" src="https://telegra.ph/file/3256e5a357bb80b6aef60.jpg" width="50" /></a></div>
 
 
 
